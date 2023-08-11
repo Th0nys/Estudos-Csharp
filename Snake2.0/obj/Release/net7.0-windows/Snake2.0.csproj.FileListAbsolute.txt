@@ -1,0 +1,5 @@
+C:\Users\an655\OneDrive\Área de Trabalho\projetos C#\Snake2.0\obj\Release\net7.0-windows\Snake2.0.csproj.AssemblyReference.cache
+C:\Users\an655\OneDrive\Área de Trabalho\projetos C#\Snake2.0\obj\Release\net7.0-windows\MainWindow.g.cs
+C:\Users\an655\OneDrive\Área de Trabalho\projetos C#\Snake2.0\obj\Release\net7.0-windows\App.g.cs
+C:\Users\an655\OneDrive\Área de Trabalho\projetos C#\Snake2.0\obj\Release\net7.0-windows\Snake2.0_MarkupCompile.cache
+C:\Users\an655\OneDrive\Área de Trabalho\projetos C#\Snake2.0\obj\Release\net7.0-windows\Snake2.0_MarkupCompile.lref
